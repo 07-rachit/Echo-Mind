@@ -58,8 +58,7 @@ pip install -r requirements.txt
 4️⃣ Run the application
 python app.py
 
-5️⃣ Open in browser
-http://127.0.0.1:5000
+
 
 🧠 Project Objective
 
@@ -93,4 +92,3 @@ Dataset-driven evaluation
 👤 Author
 
 Rachit Yadav
-B.E. CSE Student: https://github.com/07-rachit
